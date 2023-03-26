@@ -1,0 +1,28 @@
+.banner{
+    padding: 80;    
+    background-image: url('../img/pizzabanner0.jpg');
+    background-position:center ;
+    background-size:cover;           
+}
+
+.opacidad{
+    opacity: 0.5;
+}
+
+.altura{
+    height: 25vh;
+}
+
+.bg-color{
+    background-color:#c23a13;
+}
+
+.imgpizza{
+    width: 50%;
+}
+
+.active {
+    color:white;
+    font-weight: bold;
+    /* background-color: black; */
+  }
